@@ -47,19 +47,12 @@ A final year Information and Communication Technology student at Sol Plaatjie Un
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
-> *"With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide."*  
-> — Martin Fowler
 
 ---
 
 ## 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=GivenM-png&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GivenM-png&icon=0&color=0" alt="Visit Count" />
-</div>
 
 ---
 
