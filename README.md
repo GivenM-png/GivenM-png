@@ -1,5 +1,5 @@
 # 💫 I'm Given Marakabele Makgopa
-A final year Information and Communication Technology student at Sol Plaatjie University with a strong passion for frontend development.
+A final year Information and Communication Technology student at Sol Plaatjie University with a strong passion for Data Analytics and Networking
 
 
 ## 💻 Tech Stack:
